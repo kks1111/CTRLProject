@@ -28,8 +28,8 @@
 			<div class="row">
 				<div class="col-12">
 					<h3>Contact Us</h3>
-					<b>Email: </b>trainings@internshala.com<br>
-					<b>Mobile: </b>+91-8448444853
+					<b>Email: </b>budget@ctrl.com<br>
+					<b>Mobile: </b>+91-1111111111
 				</div>
 			</div>
 		</div>
