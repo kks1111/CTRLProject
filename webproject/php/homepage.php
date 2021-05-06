@@ -48,7 +48,7 @@
 			$result=mysqli_query($con,$query) or die($mysqli_error($con));
 		?>
 			<div class="container" style="margin-top:80px">
-			<h3>You plans</h3><br>
+			<h3>Your plans</h3><br>
 			<div class="row">
 			<?php while($row=mysqli_fetch_row($result)) 
 			{ ?>
